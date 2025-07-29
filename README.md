@@ -1,6 +1,6 @@
 
 
-## Oiii eu sou Rodrigo Borges, !👋
+## Rodrigo Borges, !👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DigoBorges)](https://github.com/DigoBorges/github-readme-stats)
 
